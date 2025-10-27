@@ -1,0 +1,5 @@
+! Title: Reddit Redirect Filter
+! Description: Forces all reddit.com links to old.reddit.com
+! Version: 2025.10.27
+! Redirect all reddit.com requests to old.reddit.com
+||reddit.com^$redirect=https://old.reddit.com
